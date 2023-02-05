@@ -122,6 +122,7 @@ nav button{
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
   font-size: 10px;
+  margin-left: 10px;
 }
 
 /* auth forms */
